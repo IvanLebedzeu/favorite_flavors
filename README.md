@@ -13,11 +13,6 @@ _This page lists my favorite ice cream flavors using a loop_
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
-## View Online
-
-* View at https://macj314.github.io/macj314/ice-cream
-* Or here:
-
 ### License
 
 This software is licensed under the MIT license.
